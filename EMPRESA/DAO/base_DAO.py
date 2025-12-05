@@ -23,7 +23,7 @@ class BaseDAO(ABC, Generic[T]):
         self._client= supabase_client
         self._table_name = table_name
 
-
+# propriedades para client e table_name
 
 # dict --> model / model --> dict
 #''' as instancias abaixo permitem qualquer classe criar as suas proprias conversoes do modelo para dict e vice versa'''
