@@ -1,0 +1,12 @@
+#ignorar arquivos sensíveis
+.env
+.venv/
+
+_pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.banco_digital/
+__pycache__/
+
+#ignorar arquivos de configuração do banco de dados
