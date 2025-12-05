@@ -10,7 +10,7 @@ from Funcionario.funcionario import Funcionario
 from Funcionario.gerente import Gerente
 from IFRN.pessoa import Pessoa 
 #from ifrn.funcionario import Funcionario
-
+#tat
 # Aula 17/10 - Polimorfismo, Classes Abstratas, Supabase
 
 connection = SupabaseConnection()
